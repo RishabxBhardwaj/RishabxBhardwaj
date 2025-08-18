@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner" height="200" width="300"/>
+<img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner" height="300" width="400"/>
 <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Rishab+Bhardwaj+;" />
 </h1><p align="center"> <em>B.Tech student passionate about coding, open-source, and full-stack development.</em> </p> <p align="center"> 🔹 Skilled in <b>ReactJS</b>, <b>NextJS</b>, <b>C++</b>, <b>Java</b>, <b>NodeJS</b>, <b>ExpressJS</b>, and <b>MongoDB</b> <br> 🔹 Currently diving deeper into <b>NextJS</b> to sharpen my full-stack skills. <br> 🔹 Passionate about building innovative solutions and contributing to open-source projects! </p>
 
